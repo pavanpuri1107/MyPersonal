@@ -1,0 +1,27 @@
+2022-04-13 20:22:16,194  INFO [main] SauceDemo08JanV1:39 - Chrome browser is opened
+2022-04-13 20:22:18,737  INFO [main] SauceDemo08JanV1:57 - URL is opened
+2022-04-13 20:22:20,120  INFO [main] SauceDemo08JanV1:64 - Username Entered
+2022-04-13 20:22:20,608  INFO [main] SauceDemo08JanV1:67 - Password Entered
+2022-04-13 20:22:21,478  INFO [main] SauceDemo08JanV1:70 - Login button is clicked 
+2022-04-13 20:22:24,113  INFO [main] SauceDemo08JanV1:79 - Browser is closed
+2022-04-13 20:36:09,873  INFO [main] SauceDemo08JanV1:35 - Chrome browser is opened
+2022-04-13 20:36:11,004  INFO [main] SauceDemo08JanV1:53 - URL is opened
+2022-04-13 20:36:11,772  INFO [main] SauceDemo08JanV1:60 - Username Entered
+2022-04-13 20:36:12,118  INFO [main] SauceDemo08JanV1:63 - Password Entered
+2022-04-13 20:36:12,917  INFO [main] SauceDemo08JanV1:66 - Login button is clicked 
+2022-04-13 20:36:13,071  INFO [main] SauceDemo08JanV1:21 - Apply the assertions
+2022-04-13 20:36:13,771  INFO [main] SauceDemo08JanV1:75 - Browser is closed
+2022-04-14 19:09:32,819  INFO [main] SauceDemo08JanV1:35 - Chrome browser is opened
+2022-04-14 19:09:34,794  INFO [main] SauceDemo08JanV1:53 - URL is opened
+2022-04-14 19:09:36,050  INFO [main] SauceDemo08JanV1:60 - Username Entered
+2022-04-14 19:09:36,543  INFO [main] SauceDemo08JanV1:63 - Password Entered
+2022-04-14 19:09:37,438  INFO [main] SauceDemo08JanV1:66 - Login button is clicked 
+2022-04-14 19:09:38,299  INFO [main] SauceDemo08JanV1:21 - Apply the assertions
+2022-04-14 19:09:39,309  INFO [main] SauceDemo08JanV1:75 - Browser is closed
+2022-04-14 20:48:39,774  INFO [main] SauceDemo08JanV1:35 - Chrome browser is opened
+2022-04-14 20:48:41,575  INFO [main] SauceDemo08JanV1:53 - URL is opened
+2022-04-14 20:48:42,844  INFO [main] SauceDemo08JanV1:60 - Username Entered
+2022-04-14 20:48:43,420  INFO [main] SauceDemo08JanV1:63 - Password Entered
+2022-04-14 20:48:44,664  INFO [main] SauceDemo08JanV1:66 - Login button is clicked 
+2022-04-14 20:48:45,152  INFO [main] SauceDemo08JanV1:21 - Apply the assertions
+2022-04-14 20:48:46,321  INFO [main] SauceDemo08JanV1:75 - Browser is closed
